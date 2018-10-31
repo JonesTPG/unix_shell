@@ -1,0 +1,10 @@
+ls
+ls -la
+path . /bin
+lasku 6 5
+lasku 7 8 > test.txt & lasku 9 10 > test2.txt
+ls
+cd testfolder
+ls
+cd ..
+ls
